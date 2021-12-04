@@ -1,6 +1,12 @@
 # job-application-cycle-message-templates
 Message templates for the different stages of the job application cycle
 
+# Goto resources
+- [The Workplace Stackexchange](https://workplace.stackexchange.com/)
+- [Reddit](https://www.reddit.com/)
+- [Quora](https://www.quora.com/)
+- A regular [Google search](https://www.google.com/)
+
 # Cold Emailing a Recruiter
 For cold emailing a recruiter my goto template is from this [Quora answer](https://qr.ae/pGlSeK) by [Rohan Kamath](https://www.linkedin.com/in/rohankamath/)
 
