@@ -23,11 +23,9 @@ For cold emailing a recruiter my goto template is from this [Quora answer](https
 
 ![image](https://user-images.githubusercontent.com/22425217/144693418-1b48d12c-0f93-493f-b8ff-6a8fefd14eea.png)
 
-`Here’s an example of what a good DM on LinkedIn looks like:`
+Here’s an example of what a good DM on LinkedIn looks like:
 
 > ```text
->
-> ```
 
 “Hi Rohan,
 
@@ -36,10 +34,8 @@ Thank you for taking the time to connect with me. I am Vegeta, a second year MS 
 I have also done two Product Management internships at Namek as well as worked on Customer Acquisition Strategies at a startup in India along with a couple of friends. These taught me how to understand and interpret customers and really translate their needs and pain points as users into business requirements. I also learned how to drive clarity from ambiguity; an important skill for any PM.
 
 I am very interested in the Product Management opportunity on your team at Microsoft. If your schedule permits, can you please help me understand a little more about the roles and responsibilities.”
+>
 
-```
-
-```
 
 ## Following up on a Job Application
 
@@ -51,7 +47,8 @@ From Indeed, ['How To Write a Follow-Up Email After Submitting Your Application'
 
 > Unless the job posting has indicated a specific timeline for the hiring process, it's generally appropriate to send a follow-up email one to two weeks after you’ve applied. This allows employers sufficient time to review your resume, cover letter and any other materials you have included. If you’re [following up after an interview](https://www.indeed.com/career-advice/interviewing/follow-up-email-examples-after-interview), it is appropriate to follow up more quickly—after three to five days.
 
-```text
+
+> ```text
 Dear [Name],
 
 I recently applied for the position of [position title]. I understand you're probably busy reviewing applicants, but I wanted to reach out to see if you had any updates on your decision timeline.
@@ -63,7 +60,8 @@ For your convenience, I've attached my application materials. Please let me know
 Best,
 
 [Name]
-```
+>```
+
 
 ### Email or LinkedIn followup after interview with recruiter
 
@@ -71,7 +69,7 @@ Here you've had a chat or call with the recruiter and received the go-ahead to s
 
 From Wayup article on ['How to Check in With a Recruiter When You Haven’t Heard Back'](https://www.wayup.com/guide/community/check-recruiter-havent-heard-back/)
 
-```text
+>```
 “Hi Lisa,
 
 I hope you’re having a great week! I wanted to send a quick note to say that I really enjoyed meeting everyone at [company] last week and I especially enjoyed discussing [X project] with you. I’m really excited about the role and think it could be a great fit. Are there any updates on the position?
@@ -79,15 +77,14 @@ I hope you’re having a great week! I wanted to send a quick note to say that I
 All the best,
 
 Mike”
-```
+>```
 
 ### Follow-up after final interview
 
 Workplace Stackexchange [answer by Hilmar](https://workplace.stackexchange.com/a/178828/108205) to 'What should be included in good email to send 2 weeks after final interview?'
 
-```text
-Hi Alice-Bob. I understand that you are very busy but I just wanted to quickly follow up on my interview from x/x/2021. I had a really good time and I'm very interested in the position. Please let me know if there is anything I can do to help and advance the process. Thanks
-```
+>```
+Hi Alice-Bob. I understand that you are very busy but I just wanted to quickly follow up on my interview from x/x/2021. I had a really good time and I'm very interested in the position. Please let me know if there is anything I can do to help and advance the process. Thanks```
 
 ### Follow-up after final interview when you have another offer
 
@@ -95,11 +92,11 @@ Article by Harvard Business Review on [4 Ways to Follow Up After a Job Interview
 
 > If you interview for your dream job and then get an offer from someone else before you hear back, you can write to let them know that you have another offer, but really admire the company and its mission and are hoping to hear from them before deciding.
 
-```text
+>```
 Dear [manager],
 
 I wanted to follow up with you on my interview on [date] for [position]. Since we had a chance to talk, I received a job offer from another firm. However, your role as a leader in the field of [area] along with your commitment to developing the careers of your employees is impressive, and I am excited about the prospect of working with you. If you have news about the position, I would like to know as I evaluate the offer I am considering.
-```
+>```
 
 ## Handling Rejections
 
@@ -109,11 +106,11 @@ Different ways to gracefully handle rejections.
 
 Article by Harvard Business Review on [4 Ways to Follow Up After a Job Interview](https://hbr.org/2020/11/4-ways-to-follow-up-after-a-job-interview)
 
-```text
+>```
 Dear [manager],
 
 I was disappointed to learn that I did not get an offer following my interview on [date]. I enjoyed our conversation and am impressed with the work that [company] does. Because I am new to the job search, I was hoping you could give me some feedback on my interview. I would like to ensure that I present myself as effectively as possible in the future. Any suggestions you could give me would be appreciated.
-```
+>```
 
 ### Reddit
 
@@ -121,7 +118,7 @@ Reddit post by [airjavier](https://www.reddit.com/user/airjavier/) on [Always se
 
 ![image](https://user-images.githubusercontent.com/22425217/147960060-3f3d947a-f7a3-49e0-af3f-2441ba06ac37.png)
 
-```text
+>```
 Yesterday I received yet another "We're sorry, we chose another candidate, etc etc..." I replied back with this:
 
 I'd like to sincerely thank you for the opportunity to interview and consideration for the Graphic Design position.
@@ -131,7 +128,7 @@ I'm sorry to hear that the decision did not go my way, but appreciate that the d
 I wish you and your team great success. Thank you again for your time and consideration. Please kindly pass my gratitude to the rest of the team.
 
 Best Regards,
-```
+>```
 
 ### LinkedIn
 
