@@ -84,7 +84,8 @@ Mike”
 Workplace Stackexchange [answer by Hilmar](https://workplace.stackexchange.com/a/178828/108205) to 'What should be included in good email to send 2 weeks after final interview?'
 
 >```
-Hi Alice-Bob. I understand that you are very busy but I just wanted to quickly follow up on my interview from x/x/2021. I had a really good time and I'm very interested in the position. Please let me know if there is anything I can do to help and advance the process. Thanks```
+Hi Alice-Bob. I understand that you are very busy but I just wanted to quickly follow up on my interview from x/x/2021. I had a really good time and I'm very interested in the position. Please let me know if there is anything I can do to help and advance the process. Thanks
+>```
 
 ### Follow-up after final interview when you have another offer
 
