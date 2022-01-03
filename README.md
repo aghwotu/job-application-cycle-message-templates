@@ -4,7 +4,11 @@ Message templates for the different stages of the job application cycle
 
 ## Recommended Preliminaries
 
-1. FREE [Resume review from TopResume](https://www.topresume.com/resume-review)
+1. Get a FREE [Resume review from TopResume](https://www.topresume.com/resume-review)
+   ![image](https://user-images.githubusercontent.com/22425217/147961871-7c6c9563-8c54-43d6-8e89-0834e5d4bb55.png)
+
+2. Get a cover letter - I recommend this [Cover Letter](https://twitter.com/TiemmaBakare/status/1476225236068716555?s=20) by [Tiemma Bakare](https://twitter.com/TiemmaBakare)
+   ![image](https://user-images.githubusercontent.com/22425217/147961447-90764b50-dd00-4ac9-9f7c-acd792049742.png)
 
 ## Goto resources
 
@@ -22,8 +26,10 @@ For cold emailing a recruiter my goto template is from this [Quora answer](https
 `Here’s an example of what a good DM on LinkedIn looks like:`
 
 > ```text
-> “Hi Rohan,
+>
 > ```
+
+“Hi Rohan,
 
 Thank you for taking the time to connect with me. I am Vegeta, a second year MS student at Beerus university. Prior to grad school, I worked as a Sr. Software Engineer at Planet Kai. My projects during this time involved working on highly transactional cloud based services which taught me how to tradeoff scale and performance. I have also worked on project foo-bar that taught me Identity Management and Access control. I feel that this combination will add value to your M365 Core Security Team, which, as I understand from the white paper you published recently, works at the exciting intersection of core infra tech and massive cloud services at scale.
 
