@@ -136,3 +136,20 @@ Best Regards,
 This [LinkedIn post](https://www.linkedin.com/posts/stephanienuesi_stephsynergy-rejections-microsoft-activity-6864261589021810688-NFQK) by [Stephanie Nuesi](https://www.linkedin.com/in/stephanienuesi/)
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQGQCE0ihdlKDw/feedshare-shrink_2048_1536/0/1636567493263?e=1643846400&v=beta&t=piBP7e4JEebrfgrN47PVW-qqIWiLVRHrdteHckuaEsI)
+
+### Zippia
+This Zippia post on [HOW TO FOLLOW UP WITH A RECRUITER (WITH EXAMPLES)](https://www.zippia.com/advice/how-to-follow-up-with-recruiter/)
+>```
+Dear Ms. Jenson,
+
+Thank you for getting back to me so quickly to let me know I haven’t been accepted for the Junior Copyeditor position. I appreciated the opportunity to learn more about what Bermont Books is all about and its mission of sustainability.
+
+While I’m disappointed I didn’t get the role, I hope you’ll keep me on file for any future positions that you feel would match my skill set and experience level.
+
+If you have any advice about my interview performance or supporting documents that could help improve my candidacy in the future, I would appreciate hearing it from someone with your expertise.
+
+Thanks again for taking the time to consider my application.
+
+Sincerely,
+Jenny Henderson
+>```
